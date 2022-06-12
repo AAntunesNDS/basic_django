@@ -8,6 +8,9 @@ authors = ["Arthur Antunes <arthur.antunes.aa@gmail.com>"]
 python = "^3.8"
 Django = "^4.0.4"
 coverage = "^6.3.2"
+djangorestframework = "^3.13.1"
+Markdown = "^3.3.7"
+django-filter = "^21.1"
 
 [tool.poetry.dev-dependencies]
 
